@@ -42,6 +42,8 @@ body{
 a.externo::after{
     content: '\00A0\1F517';
 }
+picture{
+    margin: auto;}
 header{
     font-family: var(--fonte-destaque);
     background-color: var(--cor7);
